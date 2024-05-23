@@ -1,0 +1,8 @@
+CLEAR
+a=0
+b=0
+@6,10 SAY "INGRESE EL VALOR DE a" GET a
+@7,10 SAY "INGRESE EL VALOR DE b" GET b
+READ
+c=a+b
+?C
